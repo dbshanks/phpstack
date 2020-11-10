@@ -1,0 +1,13 @@
+@import 'partials/reset';
+
+html {
+  font-family: sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  scroll-behavior: smooth;
+  scroll-snap-type: Y mandatory;
+}
+
+// .section {
+//    scroll-snap-align: center;
+// }
